@@ -146,6 +146,7 @@ get_accuracy(dev_predictions, Y_dev)
 ![mmmn](https://github.com/Sharmilasha/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94506182/3989a5b4-177a-408c-8c98-6e2f486e74a5)
 ![tttm](https://github.com/Sharmilasha/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94506182/d4d02440-baa2-4571-a7df-2f605206590c)
 ![tml](https://github.com/Sharmilasha/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94506182/179d97b3-a487-4c1d-8fc1-8f461ca09f0c)
+
 ![vmm](https://github.com/Sharmilasha/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94506182/d5c961b6-4508-4c5f-b928-0f2505dabf99)
 
 
